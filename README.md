@@ -4,16 +4,7 @@ I enjoy working with data, learning new tools, and building projects that challe
 
 ## 🛠️ Skills
 
-* Python
-* SQL
-* Excel
-* Power BI
-* Tableau
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Git & GitHub
+* Python  * SQL  * Excel  * Power BI  * Tableau  * Pandas  * NumPy  * Matplotlib  * Seaborn  * Git & GitHub
 
 ## 📂 What you'll find here
 
