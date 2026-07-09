@@ -11,7 +11,6 @@ I enjoy working with data, learning new tools, and building projects that challe
 * Data Cleaning Projects
 * Exploratory Data Analysis (EDA)
 * Power BI Dashboards
-* Python and SQL Practice
 
 ## 📚 Currently Learning
 
